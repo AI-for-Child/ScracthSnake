@@ -3,7 +3,7 @@
 
 🇺🇸 English Description 
 
-🚀 Project Goals This application teaches students the following fundamental concepts:
+🚀 Project Goals This application teaches kids the following fundamental concepts:
 
 Algorithm: The specific sequence of steps to complete a task.
 
@@ -37,7 +37,7 @@ Click on File > Load from your computer and select the downloaded file.
 
 👨‍🏫 Instructor's Note This project is designed to give children instant visual feedback and develop their debugging skills. If the snake becomes too long, try discussing with the students how to decrease the wait time. If it moves too fast, experiment with lowering the step count together.
 
-💡 GitHub Tags #Scratch #Robotics #CodingForKids #STEM #Education #Algorithm #SnakeGame #VirtualRobotics #Debugging #EdTech #Scratch3
+💡#Scratch #Robotics #CodingForKids #STEM #Education #Algorithm #SnakeGame #VirtualRobotics #Debugging #EdTech #Scratch3
 
 ###############################################################################
 
