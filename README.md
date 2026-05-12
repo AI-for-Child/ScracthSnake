@@ -1,7 +1,7 @@
 
 ![Yılan Oyunu Oynanış](stcrachsnake.gif)
 
-🇺🇸 English Description This project is the first practical application of a 3-week robotics coding curriculum designed for children. Using the classic Snake Game, it introduces core concepts like algorithms, decision-making structures, and sensor logic in a fun and simplified way.
+🇺🇸 English Description 
 
 🚀 Project Goals This application teaches students the following fundamental concepts:
 
@@ -39,9 +39,9 @@ Click on File > Load from your computer and select the downloaded file.
 
 💡 GitHub Tags #Scratch #Robotics #CodingForKids #STEM #Education #Algorithm #SnakeGame #VirtualRobotics #Debugging #EdTech #Scratch3
 
---------------------------//--------------------------------------
+###############################################################################
 
-🇹🇷 Türkçe Açıklama Bu proje, çocuklara robotik kodlama mantığını anlatmak için hazırlanmış 3 haftalık eğitim müfredatının ilk uygulama aşamasıdır. Klasik Yılan Oyunu üzerinden; algoritmalar, karar yapıları ve sensör mantığı basit bir şekilde işlenmiştir.
+🇹🇷 Türkçe Açıklama 
 
 🚀 Proje Amacı Bu uygulama ile öğrencilere şu temel kavramlar öğretilmektedir:
 
