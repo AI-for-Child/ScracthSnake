@@ -43,7 +43,7 @@ Click on File > Load from your computer and select the downloaded file.
 
 🇹🇷 Türkçe Açıklama 
 
-🚀 Proje Amacı Bu uygulama ile öğrencilere şu temel kavramlar öğretilmektedir:
+🚀 Proje Amacı Bu uygulama ile çocuklara şu temel kavramlar öğretilmektedir:
 
 Algoritma: Bir işi yapmak için izlenen sıra.
 
